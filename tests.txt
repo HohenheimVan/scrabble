@@ -1,0 +1,6 @@
+number
+phone
+chair
+expensive
+entertainment
+music
